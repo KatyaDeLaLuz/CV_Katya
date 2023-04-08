@@ -1,0 +1,31 @@
+body {
+align-content: center;
+background-color: rgb(236, 247, 190);
+}
+
+.partedearriba {
+align-content: center;
+}
+
+h1 {
+color: black;
+}
+
+img {
+border-radius: 40%;
+}
+
+h2 {
+color: blueviolet;
+}
+
+h3 {
+color: black;
+}
+.partedeabajo {
+background-color: rgb(236, 247, 190);
+}
+
+.skills {
+color: black;
+}
